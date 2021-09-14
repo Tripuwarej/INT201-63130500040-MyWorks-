@@ -40,10 +40,10 @@ for(let i=0; i<3; i++){
 //3: Find Maximum Value หาค่ามากที่สุด
 
 function menu(num){
-    console.log("Please select Number")
-    console.log(" 1 <--Find Sum")
-    console.log(" 2 <--Find Minimum Value")
-    console.log(" 3 <--Find Maximum Value")
+//    console.log("Please select Number")
+//    console.log(" 1 <--Find Sum")
+//    console.log(" 2 <--Find Minimum Value")
+//    console.log(" 3 <--Find Maximum Value")
 
     if(num==1){
         console.log("1. Find Sum")
